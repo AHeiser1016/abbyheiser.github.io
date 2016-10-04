@@ -1,6 +1,9 @@
 head {
   font-family: Palatino,Helvetica;
   font-size:45px;
+  font-style: bold
 }
-
+img {
+  border: thick-red;
+}
 
