@@ -32,9 +32,9 @@ body {
 #content-professionalheader {
   font-family: Lucida, arial;
   font-style: Bold;
-  font-size: 32px;
+  font-size: 22px;
 }
-pic {
+#pic {
   border: 8px;
   border-color: black;
 }
