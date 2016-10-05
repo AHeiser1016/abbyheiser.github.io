@@ -1,6 +1,5 @@
 html,body {
   display: flex;
-  flex-direction: column;
   text-align: center;
   justify-content: center;
 }
@@ -10,6 +9,12 @@ head {
   font-style: bold;
   text-align:center;
 }
+#content-contact {
+  font-family: Palatino, serif;
+  font-size: 32px;
+  font-style: bold;
+}
+
 h1 {
   font-style: bold, italic;
   font-family:Palatino;
