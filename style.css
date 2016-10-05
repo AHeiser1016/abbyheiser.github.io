@@ -10,4 +10,8 @@ body {
   background-color: lightblue;
   color: darkblue
 }
-
+content-info {
+  font-family: Palatino, 'Palatino Linotype', Helvetica;
+  font-style: bold;
+  font-size: 75px
+}
