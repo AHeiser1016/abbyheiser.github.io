@@ -24,8 +24,9 @@ body {
   font-size: 24px;
 }
 #content-professionalheader {
-  font-family: Lucida typewriter, arial;
+  font-family: Lucida, arial;
   font-style: Bold;
+  font-size: 16px;
 }
 #pic {
   border: 8px;
