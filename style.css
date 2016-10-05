@@ -1,6 +1,6 @@
 head {
   font-family: 'Palatino', 'Palatino Linotype',Helvetica;
-  font-size:60px;
+  font-size:24px;
   font-style: bold;
 }
 h1 {
@@ -17,7 +17,7 @@ body {
   font-size: 75px;
 }
 #content-professional {
-  font-family: Lucida, arial;
+  font-family: Lucida typewriter, arial;
   font-style: Bold;
 }
 
