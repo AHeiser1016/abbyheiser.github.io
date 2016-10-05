@@ -14,7 +14,12 @@ head {
   font-size: 32px;
   font-style: bold;
 }
-
+#content-missioncontent {
+  font-family: arial;
+  font-style: italic;
+  font-size: 18px;
+  padding: 20px;
+}
 h1 {
   font-style: bold;
   font-family:Palatino;
