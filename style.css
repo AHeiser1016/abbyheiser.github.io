@@ -1,9 +1,13 @@
 head {
-  font-family: Palatino,Helvetica;
-  font-size:45px;
+  font-family: Palatino, 'Palatino Linotype',Helvetica;
+  font-size:60px;
   font-style: bold;
+}
+h1 {
+  font-style: bold, italic; 
 }
 body {
   background-color: lightblue;
+  font-family: serif; 
 }
 
