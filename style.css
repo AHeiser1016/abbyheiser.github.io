@@ -1,3 +1,7 @@
+html,body {
+  display: flex;
+  text-align: center;
+}
 head {
   font-family: 'Palatino', 'Palatino Linotype',Helvetica;
   font-size:24px;
@@ -23,5 +27,4 @@ body {
 }
 #pic {
   border: 8px black;
-  flex-wrap: wrap;
 }
