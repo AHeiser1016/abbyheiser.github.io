@@ -2,6 +2,7 @@ head {
   font-family: 'Palatino', 'Palatino Linotype',Helvetica;
   font-size:24px;
   font-style: bold;
+  text-align:center;
 }
 h1 {
   font-style: bold, italic;
@@ -20,4 +21,7 @@ body {
   font-family: Lucida typewriter, arial;
   font-style: Bold;
 }
-
+#pic {
+  border: 8px black;
+  flex-wrap: wrap;
+}
