@@ -1,5 +1,5 @@
 head {
-  font-family: Palatino, 'Palatino Linotype',Helvetica;
+  font-family: 'Palatino', 'Palatino Linotype',Helvetica;
   font-size:60px;
   font-style: bold;
 }
@@ -11,11 +11,11 @@ body {
   color: darkblue
 }
 .content-info {
-  font-family: Palatino, 'Palatino Linotype', Helvetica;
+  font-family: 'Palatino', 'Palatino Linotype', Helvetica;
   font-style: bold;
   font-size: 75px
 }
 .content-professional {
-  font-family: Lucida, arial;
+  font-family: 'Lucida', 'arial';
   font-style: Bold;
 }
