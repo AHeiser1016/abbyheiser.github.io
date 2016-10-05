@@ -11,15 +11,13 @@ body {
   background-color: lightblue;
   color: darkblue
 }
-.content-info {
+#content-info {
   font-family: Palatino, Palatino Linotype, Helvetica;
   font-style: bold;
   font-size: 75px;
 }
-.content-professional {
+#content-professional {
   font-family: Lucida, arial;
   font-style: Bold;
 }
-h3 {
-  text-family: Lucida;
-}
+
