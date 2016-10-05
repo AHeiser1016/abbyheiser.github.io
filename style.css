@@ -9,31 +9,32 @@ head {
   font-style: bold;
   text-align:center;
 }
-#content-contact {
+.content-contact {
   font-family: Palatino, serif;
   font-size: 32px;
   font-style: bold;
 }
 
 h1 {
-  font-style: bold, italic;
+  font-style: bold;
   font-family:Palatino;
+  font-size: 32px;
 }
 body {
   background-color: lightblue;
   color: darkblue
 }
-#content-info {
+.content-info {
   font-family: Palatino, Palatino Linotype, Helvetica;
   font-style: bold;
   font-size: 24px;
 }
-#content-professionalheader {
+.content-professionalheader {
   font-family: Lucida, arial;
   font-style: Bold;
   font-size: 32px;
 }
-#pic {
+pic {
   border: 8px;
   border-color: black;
 }
