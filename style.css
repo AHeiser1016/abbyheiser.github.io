@@ -23,10 +23,20 @@ body {
   font-style: bold;
   font-size: 24px;
 }
-#content-professional {
+#content-professionalheader {
   font-family: Lucida typewriter, arial;
   font-style: Bold;
 }
 #pic {
-  border: 8px black;
+  border: 8px;
+  border-color: black;
+}
+#content-CSM {
+  text-align: left;
+}
+.block-date {
+  text-align: right;
+}
+.block-content {
+  text-align: left;
 }
