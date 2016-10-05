@@ -31,12 +31,3 @@ body {
   border: 8px;
   border-color: black;
 }
-#content-CSM {
-  text-align: left;
-}
-.block-date {
-  text-align: right;
-}
-.block-content {
-  text-align: left;
-}
