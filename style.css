@@ -20,7 +20,7 @@ head {
   font-family: helvetica;
   font-style: italic;
   font-size: 16px;
-  border-style: double bottom 3px black;
+  border-style: bottom 2px black;
   
 }
 .element {
