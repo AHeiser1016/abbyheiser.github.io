@@ -22,6 +22,7 @@ head {
   font-style: italic;
   font-size: 16px;
   border-bottom: 3px black;
+  border-style: solid;
 }
 .date {
   font-size: 16px;
