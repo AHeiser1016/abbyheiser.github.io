@@ -54,8 +54,8 @@ body {
   text-align: left;
 }
 #container {
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
 }
 #content-info {
