@@ -12,7 +12,6 @@ head {
   font-style: bold;
 }
 #top-elements{
-  display: flex;
   text-align: center;
   justify-content: center;
 }
