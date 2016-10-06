@@ -48,7 +48,11 @@ body {
   color: darkblue
 }
 
-
+.center {
+  width: 200px;
+  margin: 0 auto; 
+  text-align: left;
+}
 #container {
   margin-left: 5px;
   margin-right: 5px;
