@@ -63,7 +63,7 @@ body {
   font-weight: bold;
 }
 #pic {
-  border-width: 3px;
+  border-width: 5px;
   border-color: black;
   border-style: double;
 }
