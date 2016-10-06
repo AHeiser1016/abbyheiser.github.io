@@ -49,6 +49,7 @@ body {
 }
 ul {
   list-style-position: inside;
+  text-align:left;
 }
 #container {
   margin-left: 5px;
