@@ -11,14 +11,14 @@ head {
 }
 #content-contact {
   font-family: Palatino, serif;
-  font-size: 32px;
+  font-size: 46px;
   font-style: bold;
 }
 #content-missioncontent {
   font-family: arial;
   font-style: italic;
-  font-size: 18px;
-  padding: 5,5,5,5;
+  font-size: 16px;
+  padding: 0,0,0,5;
 }
 h1 {
   font-style: bold;
@@ -35,9 +35,9 @@ body {
   font-size: 24px;
 }
 #content-professionalheader {
-  font-family: Lucida, arial;
+  font-family: verdana;
   font-style: Bold;
-  font-size: 22px;
+  font-size: 24px;
 }
 #pic {
   border: 8px;
