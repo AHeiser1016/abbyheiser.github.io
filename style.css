@@ -21,18 +21,24 @@ head {
   font-family: arial;
   font-style: italic;
   font-size: 16px;
-  border-style: solid;
-  border-color: black;
-  border-width: 0px, 0px, 5px, 0px;
+  border-bottom: 3px black;
 }
 .date {
-  font-size: 14px;
+  font-size: 16px;
 }
 h1 {
   font-style: bold;
   font-family:Palatino;
   font-size: 32px;
 }
+h3 {
+  font-family: Palatino;
+  font-size: 20px;
+}
+h4 {
+  font-family: courier new;
+  font-size: 22px
+} 
 body {
   background-color: lightblue;
   color: darkblue
