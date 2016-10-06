@@ -47,7 +47,7 @@ body {
   background-color: lightblue;
   color: darkblue
 }
-ul {
+li {
   list-style-position: inside;
   text-align:left;
 }
