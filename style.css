@@ -1,7 +1,5 @@
 
-html,body {
-  justify-content: center;
-}
+
 head {
   font-family: 'Palatino', 'Palatino Linotype',Helvetica;
   font-size:24px;
@@ -22,6 +20,7 @@ head {
   font-style: italic;
   font-size: 16px;
   border-style: solid bottom 3px black;
+  
 }
 .date {
   font-size: 16px;
