@@ -47,7 +47,8 @@ body {
   color: darkblue
 }
 li {
-  font-family: arial;
+  font-family: palatino;
+  font-size: 16px;
 }
 .center {
   width: 900px;
@@ -80,6 +81,6 @@ li {
   font-weight: bold;
 }
 .date {
-  font-family: Palatino;
+  font-family: helvetica;
   font-size: 18px;
 }
