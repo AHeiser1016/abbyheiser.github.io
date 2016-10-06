@@ -12,6 +12,8 @@ head {
   font-style: bold;
 }
 #top-elements{
+  display: flex;
+  text-align: center;
   justify-content: center;
 }
 
@@ -46,6 +48,11 @@ body {
   background-color: lightblue;
   color: darkblue
 }
+#container {
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: left;
+}
 #content-info {
   font-family: arial;
   font-style: bold;
@@ -54,6 +61,7 @@ body {
 #content-professionalheader {
   font-family: courier new;
   font-size: 24px;
+  font-weight: bold;
 }
 #pic {
   border-width: 3px;
@@ -63,4 +71,5 @@ body {
 #content-educational {
   font-family: courier new;
   font-size: 24px;
+  font-weight: bold;
 }
