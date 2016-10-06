@@ -1,6 +1,4 @@
 html,body {
-  display: flex;
-  text-align: left;
   justify-content: center;
 }
 head {
@@ -18,7 +16,6 @@ head {
   font-family: arial;
   font-style: italic;
   font-size: 16px;
-  padding: 0,0,0,5;
 }
 h1 {
   font-style: bold;
