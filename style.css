@@ -23,7 +23,11 @@ head {
   border-style: solid bottom 3px black;
   
 }
-
+.element {
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
 
 h1 {
   font-style: bold;
