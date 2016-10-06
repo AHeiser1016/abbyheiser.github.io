@@ -1,3 +1,4 @@
+
 html,body {
   justify-content: center;
 }
@@ -8,14 +9,24 @@ head {
   text-align:center;
 }
 #content-contact {
-  font-family: Palatino, serif;
+  font-family: 'Palatino', 'Palatino Linotype';
   font-size: 46px;
   font-style: bold;
 }
+#top-elements{
+  justify-content: center;
+}
+
 #content-missioncontent {
   font-family: arial;
   font-style: italic;
   font-size: 16px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0px, 0px, 5px, 0px;
+}
+.date {
+  font-size: 14px;
 }
 h1 {
   font-style: bold;
@@ -27,7 +38,7 @@ body {
   color: darkblue
 }
 #content-info {
-  font-family: Palatino, Palatino Linotype, Helvetica;
+  font-family: arial;
   font-style: bold;
   font-size: 24px;
 }
@@ -37,6 +48,7 @@ body {
   font-size: 24px;
 }
 #pic {
-  border: 8px;
+  border-width: 3px;
   border-color: black;
+  border-style: double;
 }
