@@ -29,15 +29,15 @@ head {
 h1 {
   font-style: bold;
   font-family:Palatino;
-  font-size: 32px;
+  font-size: 36px;
 }
 h3 {
   font-family: Palatino;
-  font-size: 20px;
+  font-size: 22px;
 }
 h4 {
   font-family: courier new;
-  font-size: 22px
+  font-size: 18px
 } 
 body {
   background-color: lightblue;
